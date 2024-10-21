@@ -1,4 +1,4 @@
-COURT,ORDERFILE,DISPOSAL_TYPE,REASON
+court,pdf_name,disposal_type,reason
 BHC,coms-113-2022_14072022.pdf,Settlement,Consent terms
 BHC,coms-116-2022_08032022.pdf,Withdrawn,Consent terms
 BHC,coms-1355-2019_10022020.pdf,Withdrawn,No reason stated
